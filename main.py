@@ -6,7 +6,7 @@ from scapy.layers.dot11 import Dot11AssoReq
 
 def packet_handler(packet):
     if packet.haslayer(scapy.IP):
-        if packet[scapy.IP].src == '192.168.10.172':
+        if packet[scapy.IP].src == '***.***.***.***':
             print(packet.show())
             
     if packet.haslayer(Dot11):
