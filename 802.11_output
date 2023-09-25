@@ -1,0 +1,704 @@
+(venv) X515JAB-X515JA:~/frame802.11_analyzer$ sudo -E /home/***/frame802.11_analyzer/venv/bin/python3 main.py
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50083
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3756
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 48
+     id        = 26214
+     flags     = 
+     frag      = 0
+     ttl       = 128
+     proto     = icmp
+     chksum    = 0x3dbd
+     src       = ***.****.***.***
+     dst       = *********.****
+     \options   \
+###[ ICMP ]### 
+        type      = echo-request
+        code      = 0
+        chksum    = 0x95ab
+        id        = 0x4d0c
+        seq       = 0x0
+        unused    = ''
+###[ Raw ]### 
+           load      = 'www.AcrylicWiFi.com '
+###[ Padding ]### 
+              load      = '\\xdaA'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50084
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3755
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50085
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3754
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50086
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3753
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50087
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3752
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50088
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3751
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50089
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3750
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50090
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x374f
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50091
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x374e
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50092
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x374d
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 48
+     id        = 26215
+     flags     = 
+     frag      = 0
+     ttl       = 128
+     proto     = icmp
+     chksum    = 0x3dbc
+     src       = ***.****.***.***
+     dst       = *********.****
+     \options   \
+###[ ICMP ]### 
+        type      = echo-request
+        code      = 0
+        chksum    = 0x95ab
+        id        = 0x4d0c
+        seq       = 0x0
+        unused    = ''
+###[ Raw ]### 
+           load      = 'www.AcrylicWiFi.com '
+###[ Padding ]### 
+              load      = '\\x94\x19'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 48
+     id        = 26216
+     flags     = 
+     frag      = 0
+     ttl       = 128
+     proto     = icmp
+     chksum    = 0x3dbb
+     src       = ***.****.***.***
+     dst       = *********.****
+     \options   \
+###[ ICMP ]### 
+        type      = echo-request
+        code      = 0
+        chksum    = 0x95ab
+        id        = 0x4d0c
+        seq       = 0x0
+        unused    = ''
+###[ Raw ]### 
+           load      = 'www.AcrylicWiFi.com '
+###[ Padding ]### 
+              load      = ':\\xff'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50093
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x374c
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50094
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x374b
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50095
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x374a
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50096
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3749
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50098
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3747
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50099
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3746
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 76
+     id        = 3094
+     flags     = 
+     frag      = 0
+     ttl       = 128
+     proto     = icmp
+     chksum    = 0x97f1
+     src       = ***.****.***.***
+     dst       = *********.****
+     \options   \
+###[ ICMP ]### 
+        type      = dest-unreach
+        code      = protocol-unreachable
+        chksum    = 0xfcfd
+        reserved  = 0
+        length    = 0
+        nexthopmtu= 0
+        unused    = ''
+###[ IP in ICMP ]### 
+           version   = 4
+           ihl       = 5
+           tos       = 0x0
+           len       = 48
+           id        = 17432
+           flags     = 
+           frag      = 0
+           ttl       = 64
+           proto     = icmp
+           chksum    = 0xa00b
+           src       = *********.****
+           dst       = ***.****.***.***
+           \options   \
+###[ ICMP in ICMP ]### 
+              type      = echo-reply
+              code      = 0
+              chksum    = 0x9dab
+              id        = 0x4d0c
+              seq       = 0x0
+              unused    = ''
+###[ Raw ]### 
+                 load      = 'www.AcrylicWiFi.com '
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 165
+     id        = 50101
+     flags     = 
+     frag      = 0
+     ttl       = 4
+     proto     = udp
+     chksum    = 0x3744
+     src       = ***.****.***.***
+     dst       = ***.****.***.***
+     \options   \
+###[ UDP ]### 
+        sport     = 58193
+        dport     = 1900
+        len       = 145
+        chksum    = 0x66a1
+###[ Raw ]### 
+           load      = 'M-SEARCH * HTTP/1.1\r\nHost: ***.****.***.***:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 76
+     id        = 3097
+     flags     = 
+     frag      = 0
+     ttl       = 128
+     proto     = icmp
+     chksum    = 0x97ee
+     src       = ***.****.***.***
+     dst       = *********.****
+     \options   \
+###[ ICMP ]### 
+        type      = dest-unreach
+        code      = protocol-unreachable
+        chksum    = 0xfcfd
+        reserved  = 0
+        length    = 0
+        nexthopmtu= 0
+        unused    = ''
+###[ IP in ICMP ]### 
+           version   = 4
+           ihl       = 5
+           tos       = 0x0
+           len       = 48
+           id        = 18094
+           flags     = 
+           frag      = 0
+           ttl       = 64
+           proto     = icmp
+           chksum    = 0x9d75
+           src       = *********.****
+           dst       = ***.****.***.***
+           \options   \
+###[ ICMP in ICMP ]### 
+              type      = echo-reply
+              code      = 0
+              chksum    = 0x9dab
+              id        = 0x4d0c
+              seq       = 0x0
+              unused    = ''
+###[ Raw ]### 
+                 load      = 'www.AcrylicWiFi.com '
+
+None
+###[ Ethernet ]### 
+  dst       = **:**:**:**:**:**
+  src       = **:**:**:**:**:**
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 76
+     id        = 3098
+     flags     = 
+     frag      = 0
+     ttl       = 128
+     proto     = icmp
+     chksum    = 0x97ed
+     src       = ***.****.***.***
+     dst       = *********.****
+     \options   \
+###[ ICMP ]### 
+        type      = dest-unreach
+        code      = protocol-unreachable
+        chksum    = 0xfcfd
+        reserved  = 0
+        length    = 0
+        nexthopmtu= 0
+        unused    = ''
+###[ IP in ICMP ]### 
+           version   = 4
+           ihl       = 5
+           tos       = 0x0
+           len       = 48
+           id        = 18095
+           flags     = 
+           frag      = 0
+           ttl       = 64
+           proto     = icmp
+           chksum    = 0x9d74
+           src       = *********.****
+           dst       = ***.****.***.***
+           \options   \
+###[ ICMP in ICMP ]### 
+              type      = echo-reply
+              code      = 0
+              chksum    = 0x9dab
+              id        = 0x4d0c
+              seq       = 0x0
+              unused    = ''
+###[ Raw ]### 
+                 load      = 'www.AcrylicWiFi.com '
